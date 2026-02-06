@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Học tiếng Việt</string>
+    <string name="English_label">Tiếng Anh</string>
+    <string name="Vietnamese_label">Tiếng Việt</string>
+</resources>

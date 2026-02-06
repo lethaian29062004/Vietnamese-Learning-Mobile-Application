@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Vietnamese Learning</string>
+    <string name="English_label">English</string>
+    <string name="Vietnamese_label">Vietnamese</string>
+</resources>
