@@ -50,7 +50,7 @@ A modern Android application designed to help users master Vietnamese vocabulary
     2.  Tap the file to install. (If prompted, enable "Install from Unknown Sources" in your device settings).
     3.  Launch the app and start learning!
 * **On PC (Windows/Mac):**
-    1.  Download and install an Android Emulator such as **BlueStacks**, **LDPlayer**, or **NoxPlayer**.
+    1.  Download and install Android Studio, or an Android Emulator such as **BlueStacks**, **LDPlayer**, **NoxPlayer**.
     2.  Drag and drop the downloaded `.apk` file into the emulator window to install.
 
 ### 2. Run From Source (For Developers)
